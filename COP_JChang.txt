@@ -1,0 +1,31 @@
+https://www.youtube.com/watch?v=cE3oWX-vRLc
+
+Digital Energy: BP-Gulf of Mexico Advanced Collaborative Environment (ACE)
+
+Speaker Dr Albino Castro 
+
+Information Manager Production/Gulf of Mexico
+BP - Information Technology Services
+
+Dr. Castro has worked in BP refining and chemical plants for 20 years in a variety of positions, including Optimization Superintendent, Utilities and Oil Movement Consultant and Optimization Manager. In those roles, he created and led teams of optimization engineers, control engineers and board operators whose goals were to push the process kit operations safely into envelopes where the kit was more efficient and productive. He brings this wide optimization downstream experience upstream to his current role as BP Gulf of Mexico SPU Field of the Future Technology Manager. 
+ 
+
+  The Gulf of Mexico Advanced Collaborative Environment (ACE) has been in operation for several years. BP have gained some new insights about improving the efforts of workers on offshore platforms collaborating with onshore subject matter experts and operational staff workers that lead to the a change in working relationships, and the realization that they are one team – one team that is trying to solve the same problems and capitalize on the same opportunities. This talk is about sharing some of those learnings and will touch on: •Benefits of real-time data by adapting to the way people work to make decisions in real time 
+•How can you bring the right information to the right people at the right time?
+•Creating real-time and multidisciplinary decision environments supporting production operations
+•How can you enable people to work collaboratively and make better decisions faster? 
+
+
+-permit station (control access for interaction)
+
+- platforms for multidisciplinary decision making (resviour, production, subsea engineers...)
+
+- incident investigtion (re-produce issues)
+
+- contextual information (context based visualization technology)
+- improved situational awareness
+- integrated alarm management (fast operator response)
+- integrated Procedures (run the process closer to the limits
+- new furniture
+
+https://www.slideshare.net/HoneywellProcessSolutions/experion-pks-the-orion-series-and-what-is-next
